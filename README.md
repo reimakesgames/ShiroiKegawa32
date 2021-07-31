@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShiroiKegawa32
-- 👀 I’m interested in RLua (Roblox Lua/Lua 5.1) Scratch, and probably other languages soon
+- 👀 I’m interested in RLua (Roblox Lua/Lua 5.1/LuaU) Scratch, BASIC, and probably other languages soon
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? DM me on twitter (@MasterTransfurr), discord (white_player3213#0675)
+- 💞️ I’m looking to collaborate on Darkmoon Games
+- 📫 How to reach me? DM me on twitter (@Shiroi7264), discord (white_player3213#0675)
 
 i don't know what else to do with this file that github gave me, kinda sus though
 
