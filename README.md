@@ -7,3 +7,5 @@ i like;
 1.Lua!
 1.C#
 1.literally any other languages!
+
+i have a discord server, join here; discord.gg/QkZg2f8gX6
